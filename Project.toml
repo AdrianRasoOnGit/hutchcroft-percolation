@@ -1,0 +1,9 @@
+name = "HutchcroftPercolation"
+uuid = "d3b693d9-9063-4519-a176-ef6faa0b2d67"
+authors = ["Adrián Raso González <e12545240@student.tuwien.ac.at>"]
+version = "0.1.0"
+
+[deps]
+Graphs = "86223c79-f964-4821-b8bc-68f45a6c5147"
+LinearAlgebra = "37e2e131-18f8-5296-856e-ee8d351c56c6"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
